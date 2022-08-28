@@ -2,7 +2,7 @@
 
 # Deployed Link
 
-[Rode Clone](https://paytmclonedaveparam.netlify.app)
+[Rode Clone](https://rodeclonedaveparam.netlify.app)
 
 # Screenshots
 
